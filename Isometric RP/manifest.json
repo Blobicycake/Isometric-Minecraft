@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Isometric Resources",
+      "name": "Isometric",
+      "uuid":"e95ab658-6810-4d8a-9a79-82663bad4f4a",
+      "version": [1, 110, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "An isometric addon!",
+        "type": "resources",
+        "uuid": "31798d84-340a-49b5-8187-77a358ae68e1",
+        "version": [1, 110, 0]
+      }
+    ]
+   }

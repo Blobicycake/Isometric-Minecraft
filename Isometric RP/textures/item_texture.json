@@ -1,0 +1,12 @@
+{
+	"resource_pack_name": "isometric",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"flip": {
+			"textures": "textures/items/flip"
+		},
+		"zoom": {
+			"textures": "textures/items/zoom"
+		}
+	}
+}

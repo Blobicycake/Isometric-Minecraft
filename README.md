@@ -8,3 +8,5 @@ If a player refuses to join with isometric view (but why would they?) give them 
 **PLEASE SET YOUR FOV TO 30 FOR THE MOST ACCURATE ISOMETRIC EXPERIENCE!**
 
 **NEVER USE CAMERA TOOLS WHEN NEAR (3 blocks radius) OTHER PLAYERS!!**
+
+*This addon is untested on touchscreen devices. It should perform well but may be difficult to control.*

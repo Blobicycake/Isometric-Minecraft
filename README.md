@@ -6,4 +6,5 @@ Keep inventory is reccomended, aiming at enemies (and moving in general) is quit
 If a player refuses to join with isometric view (but why would they?) give them the tag fpc (first person camera) with `/tag (username) add fpc` and let them reconnect.
 
 **PLEASE SET YOUR FOV TO 30 FOR THE MOST ACCURATE ISOMETRIC EXPERIENCE!**
+
 **NEVER USE CAMERA TOOLS WHEN NEAR (3 blocks radius) OTHER PLAYERS!!**

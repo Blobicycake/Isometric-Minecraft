@@ -5,8 +5,6 @@ When starting a world give all player isometric:flip and isometric:zoom. Drop th
 Keep inventory is reccomended, aiming at enemies (and moving in general) is quite hard. All players have strength 2 to balance this.
 If a player refuses to join with isometric view (but why would they?) give them the tag fpc (first person camera) with `/tag (username) add fpc` and let them reconnect.
 
-**PLEASE SET YOUR FOV TO 30 FOR THE MOST ACCURATE ISOMETRIC EXPERIENCE!**
-
-**NEVER USE CAMERA TOOLS WHEN NEAR (3 blocks radius) OTHER PLAYERS!!**
+**PLEASE SET YOUR FOV TO 30 FOR THE MOST ACCURATE (and playable) ISOMETRIC EXPERIENCE!**
 
 *This addon is untested on touchscreen devices. It should perform well but may be difficult to control.*
